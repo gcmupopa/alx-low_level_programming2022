@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Entry point
  *
@@ -21,7 +21,7 @@ int main(void)
 			d++;
 		}
 	while
-		(c <= 'f') 
+		(c <= 'f')
 		{
 			putchar(c);
 			c++;
