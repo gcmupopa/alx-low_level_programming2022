@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * main - Entry point
+ * main - Prints _putchar and a new line
+ *
  * Return: Always 0 (success)
-*/
+ */
 int main(void)
 {
 	_putchar('_');
